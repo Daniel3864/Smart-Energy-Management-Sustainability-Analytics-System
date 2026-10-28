@@ -1,0 +1,61 @@
+store_id,store_name,city,state,store_type,area_sqft,operating_hours,opening_date,active
+101,Bangalore Whitefield,Bangalore,Karnataka,Convenience Store,2000,14,2013-05-16,TRUE
+102,Bangalore Indiranagar,Bangalore,Karnataka,Supermarket,12400,15,2016-12-06,TRUE
+103,Bangalore Koramangala,Bangalore,Karnataka,Supermarket,11700,12,2011-01-09,TRUE
+104,Bangalore Jayanagar,Bangalore,Karnataka,Convenience Store,1800,15,2023-05-02,TRUE
+105,Mysore Vijayanagar,Mysore,Karnataka,Hypermarket,67100,14,2022-10-22,TRUE
+106,Mysore Market,Mysore,Karnataka,Hypermarket,50400,14,2019-03-07,TRUE
+107,Mangalore Hampankatta,Mangalore,Karnataka,Convenience Store,3100,16,2016-06-28,TRUE
+108,Hubli Vidyanagar,Hubli,Karnataka,Hypermarket,74200,14,2019-12-02,TRUE
+109,Belgaum Camp,Belgaum,Karnataka,Department Store,28000,11,2015-07-01,TRUE
+110,Chennai T Nagar,Chennai,Tamil Nadu,Convenience Store,2500,14,2022-03-25,TRUE
+111,Chennai Velachery,Chennai,Tamil Nadu,Supermarket,14600,12,2009-01-22,TRUE
+112,Chennai Anna Nagar,Chennai,Tamil Nadu,Supermarket,16100,15,2011-06-14,TRUE
+113,Chennai OMR,Chennai,Tamil Nadu,Supermarket,13800,15,2015-04-21,TRUE
+114,Coimbatore RS Puram,Coimbatore,Tamil Nadu,Convenience Store,3300,12,2018-05-26,TRUE
+115,Coimbatore Peelamedu,Coimbatore,Tamil Nadu,Supermarket,15300,15,2019-04-23,TRUE
+116,Madurai Anna Nagar,Madurai,Tamil Nadu,Department Store,31500,11,2019-06-23,TRUE
+117,Trichy Thillai Nagar,Trichy,Tamil Nadu,Hypermarket,45100,12,2023-01-16,TRUE
+118,Salem Fairlands,Salem,Tamil Nadu,Hypermarket,94400,16,2021-06-22,TRUE
+119,Hyderabad Gachibowli,Hyderabad,Telangana,Department Store,19600,11,2022-08-25,TRUE
+120,Hyderabad Banjara Hills,Hyderabad,Telangana,Department Store,37700,11,2013-07-01,TRUE
+121,Hyderabad Kukatpally,Hyderabad,Telangana,Supermarket,12400,13,2019-02-15,TRUE
+122,Warangal Hanamkonda,Warangal,Telangana,Convenience Store,2300,15,2019-01-07,TRUE
+123,Mumbai Andheri,Mumbai,Maharashtra,Supermarket,18800,14,2017-09-03,TRUE
+124,Mumbai Powai,Mumbai,Maharashtra,Supermarket,20400,16,2017-09-01,TRUE
+125,Pune Hinjewadi,Pune,Maharashtra,Convenience Store,2800,14,2016-05-26,TRUE
+126,Pune Kothrud,Pune,Maharashtra,Convenience Store,3700,12,2014-07-19,TRUE
+127,Pune Viman Nagar,Pune,Maharashtra,Department Store,18600,10,2010-03-10,TRUE
+128,Nagpur Dharampeth,Nagpur,Maharashtra,Hypermarket,55500,13,2009-08-17,TRUE
+129,Nashik College Road,Nashik,Maharashtra,Convenience Store,2900,12,2008-01-16,TRUE
+130,Kochi Edappally,Kochi,Kerala,Supermarket,9300,14,2013-08-24,TRUE
+131,Kochi MG Road,Kochi,Kerala,Convenience Store,1200,16,2013-12-15,TRUE
+132,Thiruvananthapuram Technopark,Thiruvananthapuram,Kerala,Supermarket,14900,15,2023-05-31,TRUE
+133,Thrissur Round South,Thrissur,Kerala,Convenience Store,2800,14,2011-11-17,TRUE
+134,Visakhapatnam MVP Colony,Visakhapatnam,Andhra Pradesh,Supermarket,20500,14,2011-06-19,TRUE
+135,Vijayawada Benz Circle,Vijayawada,Andhra Pradesh,Hypermarket,90500,12,2008-09-15,TRUE
+136,Delhi Saket,Delhi,Delhi,Convenience Store,3600,12,2009-10-25,TRUE
+137,Delhi Rohini,Delhi,Delhi,Supermarket,19000,14,2018-07-09,TRUE
+138,Delhi Dwarka,Delhi,Delhi,Department Store,35800,12,2013-11-18,TRUE
+139,Gurugram Sector 29,Gurugram,Haryana,Hypermarket,70000,15,2017-11-27,TRUE
+140,Noida Sector 18,Noida,Uttar Pradesh,Department Store,24300,13,2009-08-13,TRUE
+141,Lucknow Gomti Nagar,Lucknow,Uttar Pradesh,Supermarket,16400,15,2020-03-15,TRUE
+142,Kanpur Swaroop Nagar,Kanpur,Uttar Pradesh,Supermarket,9900,16,2012-04-10,TRUE
+143,Ahmedabad Satellite,Ahmedabad,Gujarat,Supermarket,16600,12,2008-12-10,TRUE
+144,Ahmedabad Maninagar,Ahmedabad,Gujarat,Department Store,38700,11,2022-08-18,TRUE
+145,Surat Adajan,Surat,Gujarat,Supermarket,8900,13,2013-10-01,TRUE
+146,Vadodara Alkapuri,Vadodara,Gujarat,Supermarket,20000,15,2013-02-05,TRUE
+147,Jaipur Malviya Nagar,Jaipur,Rajasthan,Supermarket,16800,16,2008-10-07,TRUE
+148,Jodhpur Sardarpura,Jodhpur,Rajasthan,Convenience Store,2900,14,2017-05-16,TRUE
+149,Kolkata Salt Lake,Kolkata,West Bengal,Convenience Store,2100,15,2012-06-19,TRUE
+150,Kolkata Park Street,Kolkata,West Bengal,Supermarket,9800,15,2011-10-26,TRUE
+151,Bhubaneswar Saheed Nagar,Bhubaneswar,Odisha,Department Store,25600,11,2018-10-25,TRUE
+152,Guwahati GS Road,Guwahati,Assam,Hypermarket,44600,12,2018-09-08,TRUE
+153,Patna Boring Road,Patna,Bihar,Supermarket,15800,14,2010-05-04,TRUE
+154,Ranchi Main Road,Ranchi,Jharkhand,Supermarket,15200,13,2010-01-15,TRUE
+155,Indore Vijay Nagar,Indore,Madhya Pradesh,Convenience Store,2900,16,2011-11-16,TRUE
+156,Bhopal MP Nagar,Bhopal,Madhya Pradesh,Department Store,27600,13,2020-08-19,TRUE
+157,Raipur Shankar Nagar,Raipur,Chhattisgarh,Convenience Store,2000,16,2012-04-06,TRUE
+158,Dehradun Rajpur Road,Dehradun,Uttarakhand,Department Store,21200,11,2014-10-07,TRUE
+159,Ludhiana Model Town,Ludhiana,Punjab,Hypermarket,76500,13,2010-01-20,TRUE
+160,Amritsar Lawrence Road,Amritsar,Punjab,Department Store,30800,13,2010-12-09,TRUE
